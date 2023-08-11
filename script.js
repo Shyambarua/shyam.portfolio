@@ -35,6 +35,6 @@ ScrollReveal({
 
 
 ScrollReveal().reveal('.home-content, .heading', { origin:'top' });
-ScrollReveal().reveal('.home-img,.navbar', { origin:'right' });
+ScrollReveal().reveal('.home-img', { origin:'right' });
 ScrollReveal().reveal('.about-img', { origin:'left' });
 ScrollReveal().reveal('.service-container, .projects-container, .big-container', { origin:'bottom' });
